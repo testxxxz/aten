@@ -11,7 +11,7 @@ from keep_alive import keep_alive
 
 keep_alive()
 
-BOT_TOKEN = '7308094348:AAGLR1wIjQBgjqxVuE8iCqt0Xqf4vq4rinQ'  # Replace with your actual bot token
+BOT_TOKEN = '7204670819:AAHC-bClQ1JKkAdE3ZAlS_566d05A_Z1ssI'  # Replace with your actual bot token
 bot = telebot.TeleBot(BOT_TOKEN)
 
 
